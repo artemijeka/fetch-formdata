@@ -2,6 +2,7 @@
 #### Example fetch() and new FormData() send form to server    
 https://github.com/artemijeka/fetch-formdata    
 
+
 #### Подробнее здесь:  
 #### Read more here:   
 https://learn.javascript.ru/formdata  
