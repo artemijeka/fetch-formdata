@@ -23,7 +23,7 @@
       function sendForm(data, callback, beforeSend) {
         if (beforeSend) beforeSend();
 
-        fetch('https://jsonplaceholder.typicode.com/posts', {
+        fetch('/mail.php', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json; charset=utf-8',
