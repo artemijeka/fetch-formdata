@@ -2,6 +2,11 @@
 #### Example fetch() and new FormData() send form to server    
 https://github.com/artemijeka/fetch-formdata    
 
+#### Настройки для WordPress отправка через wp_mail()
+functions.php
+
+#### Обычная отправка через mail()
+mail.php
 
 #### Подробнее здесь:  
 #### Read more here:   
